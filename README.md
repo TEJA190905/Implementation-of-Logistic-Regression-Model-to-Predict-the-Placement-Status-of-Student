@@ -48,7 +48,7 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ```
 
 ## Output:
-![Screenshot (91)](https://github.com/user-attachments/assets/0ae366f7-55c2-4878-8bd7-e00a7a89a226)
+![Screenshot (83)](https://github.com/user-attachments/assets/48db4190-9fe7-408f-9bb8-1da36dff172d)
 
 
 
