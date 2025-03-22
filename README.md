@@ -8,10 +8,12 @@ To write a program to implement the the Logistic Regression Model to Predict the
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1.Import pandas for data manipulation and sklearn for machine learning operations. 
+2.Load data from a CSV file using pandas, then preprocess it by removing unnecessary columns and handling missing values if any.
+3.Divide the preprocessed data into training and testing sets. 
+4.Train a machine learning model, such as logistic regression (lr), on the training data. 
+5.Calculate accuracy, generate confusion matrix, and produce a classification report to assess model performance. 
+6.Utilize the trained model to make predictions on new data points, ensuring it's fitted on training data before predicting on the test set. 
 
 ## Program:
 ```
